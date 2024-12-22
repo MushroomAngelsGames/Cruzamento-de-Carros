@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	},
+	"settings": {
+		"files.associations": {
+			"fileprintsscreen.h": "c",
+			"filegetsettigs.h": "c",
+			"stdio.h": "c",
+			"limits": "c",
+			"filecreateenv.h": "c",
+			"linestruct.h": "c",
+			"algorithm": "c"
+		}
+	}
+}
